@@ -12,3 +12,4 @@ int Proiz(int n)
     }
     return all_sum;
 }
+
